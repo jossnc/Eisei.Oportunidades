@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eisei.Oportunidades.Api", "Eisei.Oportunidades.Api\Eisei.Oportunidades.Api.csproj", "{44C47782-CD2B-4467-A7D3-C463E81AA18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C47782-CD2B-4467-A7D3-C463E81AA18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C47782-CD2B-4467-A7D3-C463E81AA18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C47782-CD2B-4467-A7D3-C463E81AA18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C47782-CD2B-4467-A7D3-C463E81AA18C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F9DEF58-C79F-4BA8-B600-C166B6ED61C2}
+	EndGlobalSection
+EndGlobal

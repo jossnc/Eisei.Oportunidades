@@ -1,0 +1,10 @@
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.Data;
+global using Eisei.Oportunidades.Api.DTOs;
+global using Eisei.Oportunidades.Api.Entities;
+global using Eisei.Oportunidades.Api.Exceptions;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Data.SqlClient;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
